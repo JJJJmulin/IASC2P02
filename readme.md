@@ -1,0 +1,33 @@
+# IASC 2P02 Lab report
+
+## Abstract
+
+The purpose of this lab report is to investigate the effects and reasons of social media use on adolescent mental health. So far, social media enables multifaceted social investigations, such as data on workforce deficits and aging populations. In particular, the techniques for investigating the negative effects on mental health have been widely studied. However, the advancement of social media also represents the creation of problems. The focus of this report was to determine whether social media addiction is associated with depression in adolescents.
+
+## Methodology
+
+With the development of society, people of all ages are almost inseparable from the support of social media in their lives. As Bethany Nowviskie mentioned in Digital Humanities and Anthorpocene, "Every morning, as the Virginia sun spills over the rim of the Shenandoah Every morning, as the Virginia sun spills over the rim of the Shenandoah Valley, I dive into the water of my municipal swimming pool and think of ruined Roman baths. On either end of the lane in which I take my laps are blue tile letters, mortared just beneath the waterline by a craftsman of the century gone by. I read two words as I swim back and forth: shallow and deep, shallow and deep." In fact, the shallow and deep here represent the past era and the future era. In fact, when we use social media, we spend most of our time carrying out the messages sent and received in the longest distance. This is where humanism about the cohesiveness of social media technology and some of its hopeful possibilities come into play. The study was conducted by surveying a sample of 20 respondents aged 19 to 32 years old. The survey revealed the frequency and duration of social media use by the respondents. In addition, the survey includes the level of addiction of the respondents. All data will be analyzed descriptively using raw graph and Voyant. The results show that there is a significant correlation between social media addiction and depressive symptoms. It was shown that investigators with higher levels of addiction also had higher levels of depression. In addition, it was found that women were more likely to have higher levels of depression because of prolonged social media use compared to men.
+
+
+## Results
+
+Graph raw is a good tool for this. In "Humanities Approaches to Graphical Display" by Jahanna Drucker, it is mentioned that "So naturalized are the Google maps and bar charts generated from spread sheets that they pass as unquestioned representations of "what is". " and "Data treats itself as a mere description of a priori conditions. "When I was working with graph raw, by looking at different data. I found that the history of knowledge is the history of the forms in which it is expressed, and that these forms change. When I was working with graphs, by looking at different observed data. I found that the history of knowledge is the history of the forms that express knowledge, and these forms are changing. What can be said, expressed, and represented in any era is different from other eras, with all the accompanying caveats and reservations related to the study of the sequence of human knowledge events, allowing us to avoid any assertion of progress while noting the facts of change and transformation. So, in the raw graph, 7 out of 10 women reported depression in appearance due to prolonged viewing of appearance videos. In contrast, only 4 out of 10 males reported social depression due to their lack of social interaction because of prolonged Internet browsing. Although, as Stephen Ramsay and Geoffrey Rockwell note in Developing Things: Notes toward an Epistemology of Building in the Digital Humanities, "there was a time when the study of the digital seemed generally at odds with more traditional studies of history, philosophy, and literature. But those who are writing about new media rarely worry that such work is not meaningful. Those who publish in online journals have undoubtedly encountered greater resistance, but the belief that online articles don't really matter seems increasingly like a quaint age bias rather than a substantive critique." s the same, but I still think it's extremely interesting to use Voyant for analyzing data and text. Just like when using Voyant to analyze questions about teen depression, the results show that there are many reasons for their depression, such as parents, educators, etc. They need to be aware of the potential negative effects of social media use among adolescents and develop interventions to reduce these negative effects. From the data, there are 817 words and 367 unique word forms in this article. the word depression appears in 9 words and media stress out also appears 9 times. This shows that depression is usually accompanied by media stress. So, part of the reason for depression in adolescents comes from internet stress. The internet can be a bridge between strangers and strangers, and this bridge can be good or bad. And on the bad side, it is usually accompanied by insulting statements. These statements can often easily break down a teenager's psychological defenses, which can lead to depression.
+
+![this is alt text](1.png)
+![this is alt text](2.png)
+![this is alt text](graph.png)
+
+
+
+## Discussion
+
+In summary, this experimental report mainly highlights the negative effects and causes of social media on adolescent mental health. The above findings suggest the need for both society and families to take some measures to reduce the negative effects of social media use on adolescent mental health. In addition to this, I would like to emphasize the importance of continued research in the area of adolescent mental health, because only by continuing to delve into this area can we create a relatively safe social environment that will ensure that adolescents' mental health is not harmed as they grow up.
+
+## References
+
+  Mason, Michael J. et al. “Treating Young Adult Depression With Text-Delivered Cognitive Behavioral Therapy: A Pilot Randomized Clinical Trial.” Behavior therapy 54.2 (2023): 315–329. Web.
+
+Wenhua Lu, PhD. “Young US Adults' Reasons for Not Seeking Mental Health Care for Depression.” JAMA Network Open, JAMA Network, 10 May 2022, https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2792128. 
+“Humanities Approaches to Graphical Display.” DHQ: Digital Humanities Quarterly: Humanities Approaches to Graphical Display, http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html. 
+
+Bethany Nowviskie. “Digital Humanities in the Anthropocene.” Bethany Nowviskie, 24 June 2015, https://nowviskie.org/2014/anthropocene/. 
